@@ -6,7 +6,7 @@
   "author": "DevCRUD",
   "scripts": {
     "build": "webpack",
-    "start": "webpack serve --open"
+    "start": "webpack serve"
   },
   "devDependencies": {
     "@babel/core": "^7.18.9",
